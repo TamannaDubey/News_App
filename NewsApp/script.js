@@ -1,5 +1,5 @@
 // ────────────── CONFIGURATION ──────────────
-const API_KEY = "f4a200e5dbd64c1e879a29e050f3610b";
+const API_KEY = "add_your-api_key";
 const url = "https://newsapi.org/v2/everything?q=";
 
 // ────────────── INITIAL LOAD ──────────────
